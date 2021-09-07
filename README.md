@@ -1,6 +1,9 @@
 # Introduction
 
-Hello, my name is **Samir Schabel** and I am 33 years old.
+Hello, my name is **Samir Schabel** and I am 33 years old. 
+
+![damn-shookt](https://user-images.githubusercontent.com/90188949/132331004-4c2aec08-15db-43e1-b018-ad769542c3f2.gif)
+
 
 My Hobbys are:
 
